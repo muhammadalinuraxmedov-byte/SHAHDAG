@@ -1,0 +1,29 @@
+SHAHDAG project manifest — foundation v0.2
+
+Config/
+  DefaultEngine.ini
+  DefaultGame.ini
+  DefaultInput.ini
+  DefaultScalability.ini
+
+Docs/
+  FILE_MANIFEST.txt
+  MAP_01_RESIDENTIAL_OPERATION.md
+  MAP_01_ASSET_CHECKLIST.md
+
+Source/SHAHDAG/
+  Public/
+    SHAHDAG.h
+    ShahdagGameMode.h
+    ShahdagMapGenerator.h
+    ShahdagPlayerCharacter.h
+  Private/
+    SHAHDAG.cpp
+    ShahdagGameMode.cpp
+    ShahdagMapGenerator.cpp
+    ShahdagPlayerCharacter.cpp
+
+SHAHDAG.uproject
+README.md
+
+Docs/MAP_01_COMPOSITION_PASS_02.md
